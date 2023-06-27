@@ -23,20 +23,5 @@
             <input type="submit" value="Send">
         </form>
     </main>
-
-    <footer>
-        &copy; 2023 Your Company Name. All rights reserved.
-    </footer>
 </body>
 </html>
-In this example, the HTML structure contains a header with the "Contact Us" title, a main section with a form for capturing the user's name, email, and message, and a footer for displaying copyright information.
-
-Remember to create a separate CSS file named "styles.css" and link it in the HTML file using the <link> tag. This file will contain the styles for your contact page, such as font styles, colors, layout, etc. You can customize it according to your preferences.
-
-Once you have added the code to your GitHub repository, users will be able to access the contact page by visiting the HTML file's URL or navigating to it in your project's repository.
-
-
-
-
-
-
